@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "KOGMWU"]
 	path = KOGMWU
 	url = https://github.com/cran/KOGMWU
-	shallow = true
-	registered = true
 [submodule "MCMC.OTU"]
 	path = MCMC.OTU
 	url = https://github.com/cran/MCMC.OTU
-	shallow = true
-	registered = true
 [submodule "MCMC.qpcr"]
 	path = MCMC.qpcr
 	url = https://github.com/cran/MCMC.qpcr
-	shallow = true
-	registered = true
