@@ -5,9 +5,6 @@
 [submodule "KOGMWU"]
 	path = KOGMWU
 	url = https://github.com/cran/KOGMWU
-[submodule "MCMC.OTU"]
-	path = MCMC.OTU
-	url = https://github.com/cran/MCMC.OTU
 [submodule "MCMC.qpcr"]
 	path = MCMC.qpcr
 	url = https://github.com/cran/MCMC.qpcr
